@@ -4,9 +4,9 @@ agent any
 
 environment {
         DOCKER_TOKEN=credentials('docker-push-secret')
-        DOCKER_USER='tsadimas'
+        DOCKER_USER='VassilisSot99'
         DOCKER_SERVER='ghcr.io'
-        DOCKER_PREFIX='ghcr.io/tsadimas/ds-lab-2024'
+        DOCKER_PREFIX='ghcr.io/VassilisSot99/ds-lab-2024'
     }
 
 
